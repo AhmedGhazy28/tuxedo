@@ -1,0 +1,75 @@
+body{
+    font-family: 'Noto Serif Display', serif; 
+}
+.navbar{
+    border-bottom: solid 4px #fab339;
+    opacity: .6;
+}
+header{
+    background-image: linear-gradient(rgba(0, 0, 0,.7),rgba(0, 0, 0,.7)
+    ),url(../img/bg1.jpg);
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+header h1{
+    text-align: center;
+}
+.fom{
+    margin-top: 60vh;
+    margin-left: 540px;
+
+}
+.sut h2{
+    text-align: center;
+    font-weight: bold;
+    color: #F5C672;
+}
+.sut{
+    background-image: linear-gradient(#251d15,#42382F);
+    border-bottom: solid 4px #A07228;
+}
+.acss h2{text-align: center;
+    font-weight: bold;
+    color: #F5C672;
+
+
+
+}
+.acss{
+    background-image: linear-gradient(#42382F,#251d15);
+    border-bottom: solid 4px #A07228;
+}
+.off{
+    background-image: linear-gradient(#251d15,#42382F);
+    border-bottom: solid 4px #A07228;
+}
+
+.off h2{
+    text-align: center;
+    font-weight: bold;
+    color: #F5C672;
+}
+
+footer{
+    background-color: #362D21;
+}
+.cont{
+    background-image: linear-gradient(#42382F,#251d15);
+    border-bottom: solid 4px #A07228
+}
+.cont h2 {text-align: center;
+    font-weight: bold;
+    color: #F5C672;
+
+}
+.buy{
+    margin-left: 180px;
+}
+p{
+    color: white;
+    font-weight: bold;
+}
+.ot{
+    margin-top: 400px;
+}
